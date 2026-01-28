@@ -23,9 +23,9 @@ The analysis covers the following aspects:
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/goktani/netflix-data-analysis-eda.git
-   ```
+```bash
+git clone https://github.com/goktani/netflix-data-analysis-eda.git
+```
 2. Navigate to the project directory:
 
 ```Bash
@@ -43,7 +43,7 @@ jupyter lab
 ```
 
 ## 📂 Dataset
-The dataset is sourced from Kaggle: ![Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows). It contains listings of movies and TV shows available on Netflix, along with details such as cast, directors, ratings, release year, and duration.
+The dataset is sourced from Kaggle: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows). It contains listings of movies and TV shows available on Netflix, along with details such as cast, directors, ratings, release year, and duration.
 
 ## 📈 Sample Visuals
 <p align="center">
